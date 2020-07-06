@@ -1,0 +1,6 @@
+numpy
+matplotlib
+random
+time
+prettytable
+tqdm
